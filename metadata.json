@@ -1,0 +1,6 @@
+{
+  "name": "MNIST Finger-Scribe",
+  "description": "A high-precision handwriting digit classifier powered by scikit-learn and FastAPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
